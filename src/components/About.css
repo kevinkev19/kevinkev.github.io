@@ -1,0 +1,41 @@
+.about-container{
+	width: 100%;
+	background-color: #fff;
+	margin: 0;
+	margin-bottom: 55px;
+}
+
+.skill-text{
+	text-align: center;
+	margin-top: 55px;
+	font-family:Arts Marquette;
+	background-color: #1a1a2e;
+	border-radius: 5px;
+	color:#fff;
+	padding-top:7px;
+	padding-bottom: 1px;
+}
+
+.image-size{
+	width: 300px;
+	height: 400px;
+	margin-bottom: 10px;
+}
+
+.image-skill{
+	margin-top: 10px;
+}
+
+.tech-size{
+	width: 50px;
+	height: 50px;
+	margin: 7px;
+}
+
+.image-tech{
+	margin-bottom: 10px;
+}
+
+p{
+	text-align: left;
+}

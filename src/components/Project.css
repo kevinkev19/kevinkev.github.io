@@ -1,0 +1,25 @@
+.container-project{
+	background-color: #1a1a2e;
+	width: 100%;
+	padding: 15px;
+	margin: 0;
+
+}
+
+.card{
+	margin-bottom: 30px;
+	margin-top: 15px;
+}
+
+.project-text{
+	text-align: center;
+	margin-top: 60px;
+	font-family:Arts Marquette;
+	background-color:#b8091b;
+	border-radius: 5px;
+	color:#fff;
+	padding-top:7px;
+	padding-bottom: 1px;
+	margin-bottom: 20px;
+}
+

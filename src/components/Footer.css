@@ -1,0 +1,97 @@
+.footer-container{
+	margin: 0;
+	background-color: #1a1a2e;
+}
+
+.brandName{
+	color:#fff;
+	font-family:Arts Marquette;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+.footer-image{
+	height: 60px;
+	width: 60px;
+	/* margin-top: 20px; */
+	/* margin-right:10px ; */
+}
+
+.bible-title{
+	font-size: 23px;
+	color:#fff;
+	font-family: Arts Marquette;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+.bible-verse{
+	font-size: 14px;
+	color:#fff;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	margin-left: 35px;
+	margin-top: 4px;
+}
+
+.verse-number{
+	font-size: 18px;
+	color:red;
+}
+
+.contact-title{
+	color:#fff;
+	font-family: Arts Marquette;
+	font-size: 23px;
+	margin-top: 30px;
+	margin-left: 25px;
+}
+
+.contact-locations{
+	color:#fff;
+	margin-left:60px!important;
+	margin-top: 10px!important;
+}
+
+.address-details{
+	font-family: Arts Marquette;
+	font-size: 18px;
+	margin-left: 35px;
+	margin-top: -25px;
+}
+
+.contact-number{
+	color:#fff;
+	margin-left:60px!important;
+	margin-top: 25px!important;	
+}
+
+.contact-details{
+		font-family: Arts Marquette;
+	font-size: 18px;
+	margin-left: 35px;
+	margin-top: -25px;
+}
+
+.social-media{
+		color:#fff;
+	font-family: Arts Marquette;
+	font-size: 23px;
+	margin-top: 30px;
+	margin-left: 25px;
+
+}
+
+.socila-media-icons{
+	margin-top: 5px;
+	margin-left: 60px;
+}
+
+.facebook{
+	margin-right: 6px;
+}
+
+.whatsup{
+		margin-right: 6px;
+}
+
+

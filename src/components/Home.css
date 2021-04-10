@@ -1,0 +1,33 @@
+.navbar{
+	background-color: #1a1a2e;
+	position: sticky;
+	z-index: 999;
+	top:0;
+	/* padding: 10px; */
+}
+
+.navbar-collapse{
+	text-align: center;
+}
+
+.nav-link{
+	color:#fff!important;
+	padding-left: 40px!important;
+}
+
+/* .selected{
+	color:#dc3545!important;
+} */
+
+
+.s-up{
+	transition-delay:1s!important;
+	color:red;
+}
+
+.navbar-collapse .nav-link:hover{
+	color:#dc3545!important;
+	height: 100%;
+	width: 100%;
+	/* background-color: white; */
+}

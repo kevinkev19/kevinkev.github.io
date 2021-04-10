@@ -1,0 +1,29 @@
+.contact-container{
+	margin: 0;
+	width: 100%;
+	background-color: #fff;
+}
+
+.text-contact{
+	text-align: center;
+	margin-top: 55px;
+	font-family:Arts Marquette;
+	background-color: #1a1a2e;
+	border-radius: 5px;
+	color:#fff;
+	padding-top:7px;
+	padding-bottom: 1px;
+	margin-bottom:20px;
+}
+
+.button-align{
+	align-content: center;
+	margin-bottom: 20px;
+}
+
+.image-size{
+	height: 220px;
+	width: 220px;
+	margin-top: 70px;
+	margin-left: 70px;
+}
