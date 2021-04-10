@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kevinkev.github.io/static/css/main.3c5c2664.chunk.css",
+    "main.js": "/kevinkev.github.io/static/js/main.46e031f4.chunk.js",
+    "main.js.map": "/kevinkev.github.io/static/js/main.46e031f4.chunk.js.map",
+    "runtime-main.js": "/kevinkev.github.io/static/js/runtime-main.9a322f7b.js",
+    "runtime-main.js.map": "/kevinkev.github.io/static/js/runtime-main.9a322f7b.js.map",
+    "static/js/2.2f23ce5f.chunk.js": "/kevinkev.github.io/static/js/2.2f23ce5f.chunk.js",
+    "static/js/2.2f23ce5f.chunk.js.map": "/kevinkev.github.io/static/js/2.2f23ce5f.chunk.js.map",
+    "index.html": "/kevinkev.github.io/index.html",
+    "static/css/main.3c5c2664.chunk.css.map": "/kevinkev.github.io/static/css/main.3c5c2664.chunk.css.map",
+    "static/js/2.2f23ce5f.chunk.js.LICENSE.txt": "/kevinkev.github.io/static/js/2.2f23ce5f.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/kevinkev.github.io/static/media/program.a3eb9a40.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a322f7b.js",
+    "static/js/2.2f23ce5f.chunk.js",
+    "static/css/main.3c5c2664.chunk.css",
+    "static/js/main.46e031f4.chunk.js"
+  ]
+}
